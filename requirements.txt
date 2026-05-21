@@ -1,0 +1,7 @@
+matplotlib==3.10.9
+mediapipe==0.10.14
+numpy==2.4.6
+opencv-contrib-python==4.13.0.92
+opencv-python==4.13.0.92
+playsound==1.2.2
+sounddevice==0.5.5
