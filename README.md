@@ -38,7 +38,7 @@ This project uses **Python, OpenCV, and MediaPipe** to analyze facial landmarks 
 - **OpenCV**
 - **MediaPipe**
 - **NumPy**
-- **Pygame** *(for alert sound, if used)*
+- **playsound** 
 
 ---
 
